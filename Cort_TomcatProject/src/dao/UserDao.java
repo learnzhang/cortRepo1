@@ -13,6 +13,7 @@ public class UserDao {
 
     //声明JDBCTemplate对象共用
     private JdbcTemplate template = new JdbcTemplate(JDBCUtils.getDataSource());
+	//this is guide updates.
 
     /**
      * 登录方法
