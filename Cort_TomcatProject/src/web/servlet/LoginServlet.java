@@ -46,8 +46,9 @@ public class LoginServlet extends HttpServlet {
 
 
         //4.调用User.login方法了
-        UserDao dao = new UserDao();
-        User user = dao.login(loginuser);
+//        UserDao dao = new UserDao();
+//        User user = dao.login(loginuser);
+        User user = loginuser; //不查数据库，直接复制
 
         //5.判断user
         if(user == null){
