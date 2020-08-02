@@ -11,6 +11,16 @@ public class User {
 
     private String gender;
 
+    public User() {
+    }
+
+    public User(int id, String username, String password, String gender) {
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.gender = gender;
+    }
+
     public void setHehe(String gender){
         this.gender = gender;
     }
