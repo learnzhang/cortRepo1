@@ -1,1 +1,2 @@
-this is a dev1 branch
+delete something from dev1
+add something in master
