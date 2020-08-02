@@ -49,8 +49,8 @@ public class LoginServlet extends HttpServlet {
 //        UserDao dao = new UserDao();
 //        User user = dao.login(loginuser);
         User user = loginuser; //不查数据库，直接复制
-        System.out.println(user.getUsername());
-        System.out.println(user.getPassword());
+        //System.out.println(user.getUsername());
+        //System.out.println(user.getPassword());
 
         //5.判断user
         if(user == null){
