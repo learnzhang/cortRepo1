@@ -1,6 +1,5 @@
 delete something from dev1
 add something in master
-this is a dev1 branch
-add something in dev1
+
 20200802 Dev1 branch
 
