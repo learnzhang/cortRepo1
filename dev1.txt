@@ -20,3 +20,4 @@ mytest
 这次试试往远程branch1上发送
 这次试试新创建一个分支branch3，并上传代码
 再用git gui试一下
+还是用git bush试一下吧
