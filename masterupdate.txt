@@ -1,6 +1,3 @@
 ddddd
-local cortRepo1 update something here.
-local repo1 update something in this file.
-repo1 add something here.
-haha
+
 cortRepo1 add something here.  顶顶顶顶
